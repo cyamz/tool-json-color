@@ -1,0 +1,638 @@
+[
+    {
+        "name_cn": "丁香色",
+        "code": "#cca4e3"
+    },
+    {
+        "name_cn": "雪青",
+        "code": "#b0a4e3"
+    },
+    {
+        "name_cn": "群青",
+        "code": "#4c8dae"
+    },
+    {
+        "name_cn": "紫棠",
+        "code": "#56004f"
+    },
+    {
+        "name_cn": "绀青",
+        "code": "#003371"
+    },
+    {
+        "name_cn": "紫檀",
+        "code": "#4c221b"
+    },
+    {
+        "name_cn": "酱紫",
+        "code": "#815476"
+    },
+    {
+        "name_cn": "紫酱",
+        "code": "#815463"
+    },
+    {
+        "name_cn": "紫色",
+        "code": "#8d4bbb"
+    },
+    {
+        "name_cn": "黛紫",
+        "code": "#574266"
+    },
+    {
+        "name_cn": "黛蓝",
+        "code": "#425066"
+    },
+    {
+        "name_cn": "黛绿",
+        "code": "#426666"
+    },
+    {
+        "name_cn": "黛",
+        "code": "#4a4266"
+    },
+    {
+        "name_cn": "藏蓝",
+        "code": "#3b2e7e"
+    },
+    {
+        "name_cn": "藏青",
+        "code": "#2e4e7e"
+    },
+    {
+        "name_cn": "蓝灰色",
+        "code": "#a1afc9"
+    },
+    {
+        "name_cn": "宝蓝",
+        "code": "#4b5cc4"
+    },
+    {
+        "name_cn": "花青",
+        "code": "#003472"
+    },
+    {
+        "name_cn": "靛蓝",
+        "code": "#065279"
+    },
+    {
+        "name_cn": "靛青",
+        "code": "#177cb0"
+    },
+    {
+        "name_cn": "石青",
+        "code": "#1685a9"
+    },
+    {
+        "name_cn": "碧蓝",
+        "code": "#3eede7"
+    },
+    {
+        "name_cn": "蓝",
+        "code": "#44cef6"
+    },
+    {
+        "name_cn": "蔚蓝",
+        "code": "#70f3ff"
+    },
+    {
+        "name_cn": "玄色",
+        "code": "#622a1d"
+    },
+    {
+        "name_cn": "栗色",
+        "code": "#60281e"
+    },
+    {
+        "name_cn": "胭脂",
+        "code": "#9d2933"
+    },
+    {
+        "name_cn": "赤",
+        "code": "#c3272b"
+    },
+    {
+        "name_cn": "银朱",
+        "code": "#bf242a"
+    },
+    {
+        "name_cn": "赫赤",
+        "code": "#c91f37"
+    },
+    {
+        "name_cn": "殷红",
+        "code": "#be002f"
+    },
+    {
+        "name_cn": "枣红",
+        "code": "#c32136"
+    },
+    {
+        "name_cn": "洋红",
+        "code": "#ff0097"
+    },
+    {
+        "name_cn": "嫣红",
+        "code": "#ef7a82"
+    },
+    {
+        "name_cn": "檀",
+        "code": "#b36d61"
+    },
+    {
+        "name_cn": "绾",
+        "code": "#a98175"
+    },
+    {
+        "name_cn": "茜色",
+        "code": "#cb3a56"
+    },
+    {
+        "name_cn": "炎",
+        "code": "#ff3300"
+    },
+    {
+        "name_cn": "酡红",
+        "code": "#dc3023"
+    },
+    {
+        "name_cn": "彤",
+        "code": "#f35336"
+    },
+    {
+        "name_cn": "丹",
+        "code": "#ff4e20"
+    },
+    {
+        "name_cn": "朱红",
+        "code": "#ff4c00"
+    },
+    {
+        "name_cn": "绯红",
+        "code": "#c83c23"
+    },
+    {
+        "name_cn": "绛紫",
+        "code": "#8c4356"
+    },
+    {
+        "name_cn": "石榴红",
+        "code": "#f20c00"
+    },
+    {
+        "name_cn": "大红",
+        "code": "#ff2121"
+    },
+    {
+        "name_cn": "银红",
+        "code": "#f05654"
+    },
+    {
+        "name_cn": "酡颜",
+        "code": "#f9906f"
+    },
+    {
+        "name_cn": "樱桃色",
+        "code": "#c93756"
+    },
+    {
+        "name_cn": "海棠红",
+        "code": "#db5a6b"
+    },
+    {
+        "name_cn": "桃红",
+        "code": "#f47983"
+    },
+    {
+        "name_cn": "粉红",
+        "code": "#ffb3a7"
+    },
+    {
+        "name_cn": "品红",
+        "code": "#f00056"
+    },
+    {
+        "name_cn": "妃色",
+        "code": "#ff4777"
+    },
+    {
+        "name_cn": "朱膘",
+        "code": "#ed5736"
+    },
+    {
+        "name_cn": "火红",
+        "code": "#f36838"
+    },
+    {
+        "name_cn": "朱砂",
+        "code": "#ff2d51"
+    },
+    {
+        "name_cn": "酒红",
+        "code": "#ff461f"
+    },
+    {
+        "name_cn": "黯",
+        "code": "#f04155"
+    },
+    {
+        "name_cn": "鸦青",
+        "code": "#41555d"
+    },
+    {
+        "name_cn": "墨色",
+        "code": "#424c50"
+    },
+    {
+        "name_cn": "墨灰",
+        "code": "#50616d"
+    },
+    {
+        "name_cn": "竹青",
+        "code": "#758a99"
+    },
+    {
+        "name_cn": "铜绿",
+        "code": "#789262"
+    },
+    {
+        "name_cn": "青碧",
+        "code": "#549688"
+    },
+    {
+        "name_cn": "碧色",
+        "code": "#48c0a3"
+    },
+    {
+        "name_cn": "艾绿",
+        "code": "#1bd1a5"
+    },
+    {
+        "name_cn": "缥",
+        "code": "#7bcfa6"
+    },
+    {
+        "name_cn": "玉色",
+        "code": "#a4e2c6"
+    },
+    {
+        "name_cn": "碧绿",
+        "code": "#7fecad"
+    },
+    {
+        "name_cn": "翡翠色",
+        "code": "#2edfa3"
+    },
+    {
+        "name_cn": "青色",
+        "code": "#2add9c"
+    },
+    {
+        "name_cn": "青翠",
+        "code": "#3de1ad"
+    },
+    {
+        "name_cn": "草绿",
+        "code": "#00e09e"
+    },
+    {
+        "name_cn": "绿色",
+        "code": "#00e079"
+    },
+    {
+        "name_cn": "绿沈",
+        "code": "#40de5a"
+    },
+    {
+        "name_cn": "松花绿",
+        "code": "#00e500"
+    },
+    {
+        "name_cn": "松柏绿",
+        "code": "#0c8918"
+    },
+    {
+        "name_cn": "石绿",
+        "code": "#057748"
+    },
+    {
+        "name_cn": "青葱",
+        "code": "#21a675"
+    },
+    {
+        "name_cn": "葱青",
+        "code": "#16a951"
+    },
+    {
+        "name_cn": "葱倩",
+        "code": "#0aa344"
+    },
+    {
+        "name_cn": "油绿",
+        "code": "#0eb83a"
+    },
+    {
+        "name_cn": "豆青",
+        "code": "#00bc12"
+    },
+    {
+        "name_cn": "豆绿",
+        "code": "#96ce54"
+    },
+    {
+        "name_cn": "葱绿",
+        "code": "#9ed048"
+    },
+    {
+        "name_cn": "葱黄",
+        "code": "#9ed900"
+    },
+    {
+        "name_cn": "柳绿",
+        "code": "#a3d900"
+    },
+    {
+        "name_cn": "嫩绿",
+        "code": "#afdd22"
+    },
+    {
+        "name_cn": "松花色",
+        "code": "#bddd22"
+    },
+    {
+        "name_cn": "赭石",
+        "code": "#c9dd22"
+    },
+    {
+        "name_cn": "赭色",
+        "code": "#bce672"
+    },
+    {
+        "name_cn": "棕黑",
+        "code": "#845a33"
+    },
+    {
+        "name_cn": "褐色",
+        "code": "#955539"
+    },
+    {
+        "name_cn": "棕绿",
+        "code": "#7c4b00"
+    },
+    {
+        "name_cn": "秋色",
+        "code": "#6e511e"
+    },
+    {
+        "name_cn": "驼色",
+        "code": "#827100"
+    },
+    {
+        "name_cn": "赭",
+        "code": "#896c39"
+    },
+    {
+        "name_cn": "棕红",
+        "code": "#a88462"
+    },
+    {
+        "name_cn": "茶色",
+        "code": "#9c5333"
+    },
+    {
+        "name_cn": "棕色",
+        "code": "#9b4400"
+    },
+    {
+        "name_cn": "琥珀",
+        "code": "#b35c44"
+    },
+    {
+        "name_cn": "棕黄",
+        "code": "#b25d25"
+    },
+    {
+        "name_cn": "昏黄",
+        "code": "#ca6924"
+    },
+    {
+        "name_cn": "乌金",
+        "code": "#ae7000"
+    },
+    {
+        "name_cn": "黄栌",
+        "code": "#c89b40"
+    },
+    {
+        "name_cn": "枯黄",
+        "code": "#a78e44"
+    },
+    {
+        "name_cn": "牙色",
+        "code": "#e29c45"
+    },
+    {
+        "name_cn": "金色",
+        "code": "#d3b17d"
+    },
+    {
+        "name_cn": "秋香色",
+        "code": "#eedeb0"
+    },
+    {
+        "name_cn": "雄黄",
+        "code": "#eacd76"
+    },
+    {
+        "name_cn": "缃色",
+        "code": "#d9b611"
+    },
+    {
+        "name_cn": "赤金",
+        "code": "#e9bb1d"
+    },
+    {
+        "name_cn": "雌黄",
+        "code": "#f0c239"
+    },
+    {
+        "name_cn": "姜黄",
+        "code": "#f2be45"
+    },
+    {
+        "name_cn": "藤黄",
+        "code": "#ffc64b"
+    },
+    {
+        "name_cn": "橘红",
+        "code": "#ffc773"
+    },
+    {
+        "name_cn": "橘黄",
+        "code": "#ffb61e"
+    },
+    {
+        "name_cn": "杏红",
+        "code": "#ff7500"
+    },
+    {
+        "name_cn": "橙色",
+        "code": "#ff8936"
+    },
+    {
+        "name_cn": "橙黄",
+        "code": "#ff8c31"
+    },
+    {
+        "name_cn": "杏黄",
+        "code": "#fa8c35"
+    },
+    {
+        "name_cn": "鸭黄",
+        "code": "#ffa400"
+    },
+    {
+        "name_cn": "鹅黄",
+        "code": "#ffa631"
+    },
+    {
+        "name_cn": "樱草色",
+        "code": "#faff72"
+    },
+    {
+        "name_cn": "黑色",
+        "code": "#fff143"
+    },
+    {
+        "name_cn": "漆黑",
+        "code": "#eaff56"
+    },
+    {
+        "name_cn": "煤黑",
+        "code": "#000000"
+    },
+    {
+        "name_cn": "缁色",
+        "code": "#161823"
+    },
+    {
+        "name_cn": "黝黑",
+        "code": "#312520"
+    },
+    {
+        "name_cn": "黧",
+        "code": "#493131"
+    },
+    {
+        "name_cn": "黎",
+        "code": "#665757"
+    },
+    {
+        "name_cn": "乌黑",
+        "code": "#5d513c"
+    },
+    {
+        "name_cn": "玄青",
+        "code": "#75664d"
+    },
+    {
+        "name_cn": "乌色",
+        "code": "#392f41"
+    },
+    {
+        "name_cn": "黝",
+        "code": "#3d3b4f"
+    },
+    {
+        "name_cn": "水色",
+        "code": "#725e82"
+    },
+    {
+        "name_cn": "苍色",
+        "code": "#6b6882"
+    },
+    {
+        "name_cn": "灰色",
+        "code": "#88ada6"
+    },
+    {
+        "name_cn": "老银",
+        "code": "#75878a"
+    },
+    {
+        "name_cn": "花白",
+        "code": "#808080"
+    },
+    {
+        "name_cn": "蟹壳青",
+        "code": "#bacac6"
+    },
+    {
+        "name_cn": "青白",
+        "code": "#c2ccd0"
+    },
+    {
+        "name_cn": "素",
+        "code": "#bbcdc5"
+    },
+    {
+        "name_cn": "鸭卵青",
+        "code": "#c0ebd7"
+    },
+    {
+        "name_cn": "荼白",
+        "code": "#e0f0e9"
+    },
+    {
+        "name_cn": "藕荷色",
+        "code": "#e0eee8"
+    },
+    {
+        "name_cn": "藕色",
+        "code": "#f3f9f1"
+    },
+    {
+        "name_cn": "白粉",
+        "code": "#e4c6d0"
+    },
+    {
+        "name_cn": "鱼肚白",
+        "code": "#edd1d8"
+    },
+    {
+        "name_cn": "缟",
+        "code": "#fff2df"
+    },
+    {
+        "name_cn": "象牙白",
+        "code": "#fcefe8"
+    },
+    {
+        "name_cn": "月白",
+        "code": "#f2ecde"
+    },
+    {
+        "name_cn": "莹白",
+        "code": "#fffbf0"
+    },
+    {
+        "name_cn": "雪白",
+        "code": "#d6ecf0"
+    },
+    {
+        "name_cn": "霜色",
+        "code": "#e3f9fd"
+    },
+    {
+        "name_cn": "铅白",
+        "code": "#f0fcff"
+    },
+    {
+        "name_cn": "银白",
+        "code": "#e9f1f6"
+    },
+    {
+        "name_cn": "精白",
+        "code": "#f0f0f4"
+    }
+]
